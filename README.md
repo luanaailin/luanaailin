@@ -17,7 +17,7 @@ I'm **Luana Michelangeli** and I'm going to tell you a little about myself...
 
 💻 I identify with **proactivity** and I am passionate about **continuous learning**. I love learning on my own and overcoming new challenges. Currently, I have completed an online **Full Stack development** bootcamp at HENRY, where I have acquired skills in technologies such as **Javascript, React, Redux, Sequelize, among others.** I am also interested in starting a **UX course /UI** to improve my Front End design skills.
 
-📚 Some time ago I studied Administration for two years with a focus on **Marketing** and I am excited to be able to apply that knowledge when designing a website, interpreting a brand or simply understanding the objectives of each client to make better decisions. time to develop.
+📚 Some time ago I studied Administration for two years with a focus on **Marketing** and I am excited to be able to apply that knowledge when designing a website, interpreting a brand or simply understanding the objectives of each client to make better decisions when developing.
 
 🤲🏽 I consider myself **very organized** and gifted with **a large amount of soft skills**, which allows me to work effectively as a team, communicate clearly and learn from others. **I believe collaboration is essential to success in any project**.
 
